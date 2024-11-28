@@ -19,3 +19,4 @@ Se pueden ver las imagen Page1 and Page2 donde se ve el funcionamiento del aplic
    
    Se debe ejecutar el script que está en la carpeta, el cual tiene información de usuarios y areas.
    Se debe ejecutar el comando FirstCode que está en la carpeta Docs, apuntadole a la ruta donde se tenga descargado el proyecto.
+   Se debe tener en cuentas que la cadena de conexión se encuentra en el archivo SamtelContext, se debe tener en cuenta configurar en esta clase para que se pueda subir el proyecto. 
