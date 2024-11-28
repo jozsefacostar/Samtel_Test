@@ -4,6 +4,8 @@ El aplicación se desarrolla bajo una arquitectura de 3 capaz (Applicacion, Domi
 Cuenta con 2 paneles, en el primer se pueden registrar usuarios, en el segundo se pueden asignar areas a los usuarios.
 Se pueden ver las imagen Page1 and Page2 donde se ve el funcionamiento del aplicativo.
 
+Los diagramas, base de datos e imagenes de  la aplicación se encuentra en la carpeta Docs
+
 ### Requisitos Previos
 
 
