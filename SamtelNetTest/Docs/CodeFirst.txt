@@ -1,0 +1,2 @@
+cd C:\Proyectos personales\Samtel\Infraestructure;
+dotnet ef dbcontext scaffold "Server=localhost\SQLEXPRESS;Database=TestSamtelNET;Trusted_Connection=True;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer --output-dir "Entities" --context-dir "Entities" --context "DbContext" --project "C:\Proyectos personales\Samtel\Infraestructure\Infraestructure.csproj" --startup-project "C:\Proyectos personales\Samtel\Infraestructure\Infraestructure.csproj"
